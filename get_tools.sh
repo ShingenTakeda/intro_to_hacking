@@ -1,1 +1,1 @@
-sudo apt install gcc-multilib sqlite3
+sudo apt install gcc-multilib
